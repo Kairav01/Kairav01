@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on Cybersecurity Projects
+- 🔭 I’m currently working on Security and Analysis Projects
 - 🌱 I’m currently learning Linux and automation using python
-- 👯 I’m looking to collaborate on cyber forensics
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on Projects on CyberSecurity
 - 📫 How to reach me: LinkedIn and Email
 - ⚡ Fun fact: I am a fast learner
 
