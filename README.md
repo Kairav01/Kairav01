@@ -26,8 +26,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 💫 About Me:
-🔭 I’m currently working on Security and Analysis Projects👯 I’m looking to collaborate on Projects on CyberSecurity 🌱 I’m currently learning Linux and automation using python⚡ Fun fact  I am a fast learner
+# 💫 Hello There:
+🔭 I’m currently working on Security and Analysis Projects<br>👯 I’m looking to collaborate on Projects on CyberSecurity<br>🌱 I’m currently learning Linux and automation using python<br>⚡ Fun fact  I am a fast learner
 
 
 ## 🌐 Socials:
