@@ -27,7 +27,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Security and Analysis Projects👯 I’m looking to collaborate on Projects on CyberSecurity 🌱 I’m currently learning Linux and automation using python⚡ Fun fact  I am a fast learner
 
 
 ## 🌐 Socials:
